@@ -1,0 +1,6 @@
+--2019-05-03 16:13:22--  https://gate.sc/?url=http%3A%2F%2Fdjasher.ro%2F%3Fp%3D1100
+Resolving gate.sc (gate.sc)... 54.230.84.36, 54.230.84.6, 54.230.84.116, ...
+Connecting to gate.sc (gate.sc)|54.230.84.36|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2019-05-03 16:13:24 ERROR 403: Forbidden.
+
